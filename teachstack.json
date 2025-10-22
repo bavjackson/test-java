@@ -1,10 +1,10 @@
 {
+  "skippable": true,
   "languages": [
     {
       "language": "java"
     }
   ],
-
   "modules": [
     {
       "name": "Hello World",
