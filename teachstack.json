@@ -23,7 +23,7 @@
           ],
           "tests": [
             {
-              "test": "HelloWorldTest:testHelloWorld",
+              "test": "hello-world@HelloWorldTest#testHelloWorld()",
               "name": "Hello World",
               "description": "Print 'Hello World!'"
             }
@@ -42,7 +42,7 @@
           ],
           "tests": [
             {
-              "test": "CalculatorTest:testAdd",
+              "test": "calculator@CalculatorTest#testAdd()",
               "name": "Add",
               "description": "Update the 'add()' method to add to integer parameters"
             }
